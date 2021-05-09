@@ -5,4 +5,17 @@
  
  So what are you waiting for? Grab your PC and start planning from your room!
  
- ## hello
+ ## Instructions on how to run the code
+ 1.Downnload the zip file from the github link provided. Extract those files on a folder without leaving anything aside. 
+ 2.Open index.html file. That is the homepage of the website.
+ 3.Almost all the buttons and attribute are functionable as described in detail in the video uploaded. So you can navigate between pages.
+ 4.To inspect the code, you can check on github before dowmloading the page.
+ 
+ ## Credits
+-  Outline page layout template rights belong to templatemo.com
+- Posters, images and banners were created on canva.com
+- Some images are from google images.
+- Some of the blogpost were utilised to implement certain tips. Credits are given in the website itself. You can explore more about them from there.
+
+
+ 
